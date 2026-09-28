@@ -1,5 +1,60 @@
-# 💫 About Me:
-# Hi there 👋<br><br>Data Engineer building scalable ETL/ELT pipelines and business-ready analytics on Azure, Microsoft Fabric, PySpark, and Snowflake.<br><br>- 🔭 I’m currently working on **metadata-driven Azure Data Factory pipelines for banking data** and **Medallion Architecture solutions on Microsoft Fabric**<br>- 👯 I’m looking to collaborate on **open-source data engineering projects, ETL frameworks, and data quality/validation tools**<br>- 🤝 I’m looking for help with **advanced Spark performance tuning and data platform architecture best practices**<br>- 🌱 I’m currently learning **Databricks, advanced Snowflake, dbt, and data orchestration at scale**<br>- 💬 Ask me about **ADF, Microsoft Fabric, PySpark, SQL, Power BI, and data modeling**<br>- ⚡ Fun fact: **I've solved 400+ LeetCode problems, and my team reached the Top 30 at Smart India Hackathon out of 10,000+ teams**<br><br>---<br><br>## 🧰 Tech Stack<br><br>**Languages:** Python · SQL<br><br>**Cloud & Data:** Azure · Databricks · Data Factory · Synapse · ADLS · Microsoft Fabric · Snowflake · PySpark<br><br>**Data Engineering:** ETL/ELT · Data Modeling · Data Warehousing · Incremental Loads · Semantic Models · Medallion Architecture<br><br>**BI & Analytics:** Power BI · Tableau · DAX · Power Query (M) · OLAP Cubes<br><br>**Databases & Tools:** SQL Server · MySQL · MongoDB · Git · GitHub · Azure DevOps · Docker<br><br>---<br><br>## 💼 Experience<br><br>**Data Engineer Intern – Hitachi Digital Services** (Nov 2025 – Present)<br>- Built metadata-driven ADF pipelines across 6 banking domains with incremental loads and automated backfill/rerun orchestration<br>- Implemented an 8-day rolling data-retention workflow to automate expired-data purging<br>- Developed SQL validation workflows for source-to-target reconciliation and audit logging<br>- Delivered a Fabric Lakehouse solution (Medallion, Star Schema, Power BI) for 90K+ records<br><br>**Data Engineer Intern – GritFeat Solutions** (Jul 2025 – Oct 2025)<br>- Built a deterministic PII masking solution with Python, hashing, and lookup mapping<br>- Engineered PySpark + Snowflake ETL pipelines and Power BI dashboards<br>- Containerized workflow components with Docker<br><br>---<br><br>## 🚀 Projects<br><br>- 🛡️ **[PhishGuard](https://github.com/<username>/<repo>)** – Phishing URL detection using Python and Scikit-learn with lexical and domain-based features<br>- 🎵 **[Audify](https://github.com/<username>/<repo>)** – Django music player with authentication, uploads, playlists, and audio playback<br><br>---<br><br>## 🎓 Education & Certifications<br><br>- B.E. in Computer Science, Chandigarh University (2021–2025), CGPA 8.31<br>- Microsoft Azure SQL · IBM Machine Learning · Crash Course on Python · NPTEL Introduction to IoT<br><br>---<br><br>## 📫 Connect with me<br><br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-linkedin>)<br>[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:<your-email>)<br><br>---<br><br>![GitHub stats](https://github-readme-stats.vercel.app/api?username=<username>&show_icons=true&theme=default)
+## 💫 About Me
+
+### Hi there 👋
+
+Data Engineer building scalable ETL/ELT pipelines and business-ready analytics on Azure, Microsoft Fabric, PySpark, and Snowflake.
+
+- 🔭 I'm currently working on **metadata-driven Azure Data Factory pipelines for banking data** and **Medallion Architecture solutions on Microsoft Fabric**
+- 👯 I'm looking to collaborate on **open-source data engineering projects, ETL frameworks, and data quality/validation tools**
+- 🤝 I'm looking for help with **advanced Spark performance tuning and data platform architecture best practices**
+- 🌱 I'm currently learning **Databricks, advanced Snowflake, dbt, and data orchestration at scale**
+- 💬 Ask me about **ADF, Microsoft Fabric, PySpark, SQL, Power BI, and data modeling**
+- ⚡ Fun fact: **I've solved 400+ LeetCode problems, and my team reached the Top 30 at Smart India Hackathon out of 10,000+ teams**
+
+---
+
+## 🧰 Tech Stack
+
+**Languages:** Python · SQL
+
+**Cloud & Data:** Azure · Databricks · Data Factory · Synapse · ADLS · Microsoft Fabric · Snowflake · PySpark
+
+**Data Engineering:** ETL/ELT · Data Modeling · Data Warehousing · Incremental Loads · Semantic Models · Medallion Architecture
+
+**BI & Analytics:** Power BI · Tableau · DAX · Power Query (M) · OLAP Cubes
+
+**Databases & Tools:** SQL Server · MySQL · MongoDB · Git · GitHub · Azure DevOps · Docker
+
+---
+
+## 💼 Experience
+
+**Data Engineer Intern – Hitachi Digital Services** (Nov 2025 – Present)
+
+- Built metadata-driven ADF pipelines across 6 banking domains with incremental loads and automated backfill/rerun orchestration
+- Implemented an 8-day rolling data-retention workflow to automate expired-data purging
+- Developed SQL validation workflows for source-to-target reconciliation and audit logging
+- Delivered a Fabric Lakehouse solution (Medallion, Star Schema, Power BI) for 90K+ records
+
+**Data Engineer Intern – GritFeat Solutions** (Jul 2025 – Oct 2025)
+
+- Built a deterministic PII masking solution with Python, hashing, and lookup mapping
+- Engineered PySpark + Snowflake ETL pipelines and Power BI dashboards
+- Containerized workflow components with Docker
+
+---
+
+## 🚀 Projects
+
+- 🛡️ **[PhishGuard](https://github.com/1Manisha1/PhishGuard)** – Phishing URL detection using Python and Scikit-learn with lexical and domain-based features
+- 🎵 **[Audify](https://github.com/1Manisha1/Audify)** – Django music player with authentication, uploads, playlists, and audio playback
+
+---
+
+## 🎓 Education & Certifications
+
+- B.E. in Computer Science, Chandigarh University (2021–2025), CGPA 8.31
+- Microsoft Azure SQL · IBM
 
 
 ## 🌐 Socials:
